@@ -17,10 +17,8 @@ The course will focus on a combination of:
 
 ### Dr Tom Denton  
 **Affiliation:** Google DeepMind  
-**Office:** 105  
-**Email:** tmd@google.com  
+
 
 ### Dr Eunice Manyasi  
 **Affiliation:** Strathmore University  
-**Office:** 105  
-**Email:** eunismanyasi@gmail.com
+
